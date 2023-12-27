@@ -1,4 +1,4 @@
-| - | Etapes | Commandes |
+|  | Etapes | Commandes |
 |---|---|---|
 | 1 | Créer un dossier projet | mkdir NomDuDossier |
 | Valeur de la cellule 1 | Valeur de la cellule 2 | Valeur de la cellule 3 |
