@@ -1,7 +1,7 @@
 | | Etapes | Commandes |
 |---|---|---|
 | 1 | Créer un dossier projet | mkdir NomDuDossier |
-| 2 | Valeur de la cellule 2 | Valeur de la cellule 3 |
+| 2 | Créer un fichier backend | mkdir backend |
 | 3 | Valeur de la cellule 5 | Valeur de la cellule 6 |
 | 4 | Valeur de la cellule 2 | Valeur de la cellule 3 |
 | 5 | Valeur de la cellule 5 | Valeur de la cellule 6 |
