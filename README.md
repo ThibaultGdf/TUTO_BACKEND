@@ -1,5 +1,10 @@
 CRÉER UN SERVEUR NODE.JS
-| --- | --- | --- |
+| Titre de la colonne 1 | Titre de la colonne 2 | Titre de la colonne 3 |
+|---|---|---|
+| Valeur de la cellule 1 | Valeur de la cellule 2 | Valeur de la cellule 3 |
+| Valeur de la cellule 4 | Valeur de la cellule 5 | Valeur de la cellule 6 |
+
+
 | 1) | Créer un dossier projet |
 |---|---|---|
 1) Créer un dossier projet
