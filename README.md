@@ -21,3 +21,4 @@ morgan? http-errors?
 res.json
 8)  Allumer le serveur et vérifier la requête sur postman
  npm run start
+9) Créer un fichier .gitignore et ajouter node_modules
