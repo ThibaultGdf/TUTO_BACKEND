@@ -11,16 +11,4 @@ CRÉER UN SERVEUR NODE.JS
 | 7 | Modifier les routes | res.json({message: 'Vous êtes sur la route de ... !'}); |
 | 8 | Allumer le serveur | npm run start |
 | 9 | Créer un fichier .gitignore et ajouter node_modules | Valeur de la cellule 6 |
-
-
-
-6) Ajouter les dépendances
-npm install nodemon sequelize cors pg pg-hstore dotenv jsonwebtoken bcryptjs cookie-parser
-
-morgan? http-errors?
-
-7) Modifier les routes
-res.json
-8)  Allumer le serveur et vérifier la requête sur postman
- npm run start
-9) Créer un fichier .gitignore et ajouter node_modules
+| 10 | Vérifier les requêtes sur postman | Directement sur Postman |
