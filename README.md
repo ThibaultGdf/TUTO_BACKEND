@@ -1,5 +1,5 @@
 | | Etapes | Commandes |
-|---|---|---|
+|---|---|-----|
 | 1 | Créer un dossier projet | mkdir NomDuDossier |
 | 2 | Créer un fichier backend | mkdir backend |
 | 3 | Se déplacer dans le fichier backend | cd backend |
