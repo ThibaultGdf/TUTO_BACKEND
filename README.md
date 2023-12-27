@@ -1,8 +1,15 @@
 | | Etapes | Commandes |
 |---|---|---|
 | 1 | Créer un dossier projet | mkdir NomDuDossier |
-| Valeur de la cellule 1 | Valeur de la cellule 2 | Valeur de la cellule 3 |
-| Valeur de la cellule 4 | Valeur de la cellule 5 | Valeur de la cellule 6 |
+| 2 | Valeur de la cellule 2 | Valeur de la cellule 3 |
+| 3 | Valeur de la cellule 5 | Valeur de la cellule 6 |
+| 4 | Valeur de la cellule 2 | Valeur de la cellule 3 |
+| 5 | Valeur de la cellule 5 | Valeur de la cellule 6 |
+| 6 | Valeur de la cellule 2 | Valeur de la cellule 3 |
+| 7 | Valeur de la cellule 5 | Valeur de la cellule 6 |
+| 8 | Valeur de la cellule 2 | Valeur de la cellule 3 |
+| 9 | Valeur de la cellule 5 | Valeur de la cellule 6 |
+
 
 
 | 1) | Créer un dossier projet |
