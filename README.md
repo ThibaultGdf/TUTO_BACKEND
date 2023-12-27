@@ -1,5 +1,6 @@
 
 | 1 | Créer un dossier projet | Titre de la colonne 3 |
+| --- | --- | --- |
 | 1 | Créer un dossier projet | Titre de la colonne 3 |
 | 2 | Valeur de la cellule 2 | Valeur de la cellule 3 |
 | Valeur de la cellule 4 | Valeur de la cellule 5 | Valeur de la cellule 6 |
