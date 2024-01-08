@@ -12,3 +12,13 @@ CRÉER UN SERVEUR NODE.JS
 | 8 | Allumer le serveur | npm run start |
 | 9 | Créer un fichier .gitignore et ajouter node_modules | Valeur de la cellule 6 |
 | 10 | Vérifier les requêtes sur postman | Directement sur Postman |
+
+
+t1 Réaliser le projet
+
+1. Créer le serveur express
+2. Implementer les routes
+3. Creer la base de données
+4. Lier la base de données aux routes
+5. Implémenter l'authentification
+6. Implémenter les tests
